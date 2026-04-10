@@ -41,6 +41,19 @@ To implement authentication, file upload, payment mockup, deployment, and API te
 - POST /api/upload
 - POST /api/payment
 
+## 📸 Screenshots
+
+### Register API
+![Register](postman_screenshots/register.png)
+
+### Login API
+![Login](postman_screenshots/login.png)
+
+### Upload API
+![Upload](postman_screenshots/upload.png)
+
+### Payment API
+![Payment](postman_screenshots/payment.png)
 
 ## Environment Variables
 Create a `.env` file and add:
@@ -55,16 +68,3 @@ JWT_SECRET=your_secret_key
 npm install
 npm start
 
-## 📸 Screenshots
-
-### Register API
-![Register](postman_screenshots/register.png)
-
-### Login API
-![Login](postman_screenshots/login.png)
-
-### Upload API
-![Upload](postman_screenshots/upload.png)
-
-### Payment API
-![Payment](postman_screenshots/payment.png)
